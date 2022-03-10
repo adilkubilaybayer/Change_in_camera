@@ -47,7 +47,7 @@ while True:
     if key == 27:
         break
     sums=(abs((sum1-sum2)))
-    if sums>=2000:
+    if sums>=1000:
         print(sums)
 ##    list1.append
     
