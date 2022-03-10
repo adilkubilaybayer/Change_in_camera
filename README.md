@@ -17,12 +17,8 @@ It will print the change of the change in camera, simply acceleration of camera(
 2-Change_in_camera gives direct results
 It is much more detailed than Acceleration_in_camera but prints pretty big numbers.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!MOTION CAN BE MORE EASILY NOTICED WITH change_in_camera. Acceleration_in_camera is created due to an error and it can be thinked as an experimental code. 
-!However Acceleration_in_camera is not garbage
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+MOTION CAN BE MORE EASILY NOTICED WITH change_in_camera. Acceleration_in_camera is created due to an error and it can be thinked as an experimental code. 
+However Acceleration_in_camera is not garbage
 
 How it works?
 
